@@ -1,5 +1,16 @@
 ## Individual Spring Boot Capstone
 
+
+**Due to time constraints, while dockerfiles have been created for the account server, authentication server, and data server, it is not currently possible to test the whole project with just these docker containers. Therefore, please run the projects locally if necessary.**
+
+Implemented features:
+* Can register a new account, or create a token with credentials that have already been stored
+* Can use the frontend (or Postman) to get, create, update, and delete customers
+* Can use the frontend (or Postman) to get, create, update, and delete events
+* Can use *Postman (only)* to get, create, update, and delete registrations
+
+
+------------------------------
 ### Instructions
 
 * Clone Account Server, Data Server, and Vite App repositories (not React App!)
