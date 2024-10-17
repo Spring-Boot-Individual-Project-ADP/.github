@@ -9,6 +9,7 @@ Implemented features:
 * Can use the frontend (or Postman) to get, create, update, and delete events
 * Can use *Postman (only)* to get, create, update, and delete registrations
 
+In order to test the backend, you can download the Postman requests collection and then export that into Postman.
 
 ------------------------------
 ### Instructions
